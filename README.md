@@ -1,4 +1,4 @@
-<h1 align="center">ML & AI Project Portfolio</h1>
+<h1 align="center">AI & ML Project Portfolio</h1>
 <p align="center">
   <em>6 end-to-end projects spanning Data Visualization · Clinical ML · Financial Forecasting · NLP · LLM Fine-tuning</em>
 </p>
