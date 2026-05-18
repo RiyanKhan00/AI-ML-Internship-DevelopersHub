@@ -25,7 +25,7 @@ This repository contains 6 independently complete machine learning and AI projec
 |---|---------|--------|------------|---------|
 | 01 | [Iris Deep Visual Explorer](#-01--iris-deep-visual-explorer) | Data Visualization | PCA · LDA · Statistical EDA | Fisher's Iris (sklearn) |
 | 02 | [Stock Price Prediction](#-02--stock-price-prediction) | Quantitative Finance | Stacked Ensemble · RSI · MACD · Bollinger Bands | AAPL via yfinance |
-| 03 | [Heart Disease Classifier](#-03--heart-disease-classifier) | Clinical ML | 4-Model Benchmark · ROC-AUC · Feature Importance | UCI Cleveland |
+| 03 | [Heart Disease Classifier](#️-03--heart-disease-classifier) | Clinical ML | 4-Model Benchmark · ROC-AUC · Feature Importance | UCI Cleveland |
 | 04 | [Health Query Chatbot](#-04--general-health-query-chatbot) | NLP / LLM | Prompt Engineering · Two-Layer Safety Filter | Llama 3.1-8B (HuggingFace) |
 | 05 | [Mental Health Chatbot](#-05--mental-health-support-chatbot) | NLP / Fine-Tuning | GPT-Neo Fine-tuning · Causal LM · EmpatheticDialogues | Facebook AI (25k convos) |
 | 06 | [House Price Prediction](#-06--house-price-prediction) | Regression | Linear Regression · Gradient Boosting · 3-Method Importance | Kaggle Housing |
